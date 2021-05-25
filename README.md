@@ -1,4 +1,4 @@
-# Esteganografia_Audio
+# Esteganografia de audio
 Programa para realizar esteganografía con audio.
 
 ## Autores
@@ -11,7 +11,7 @@ Programa para realizar esteganografía con audio.
 ## Cómo funciona
 Basta con descargar el programa .py y ejecutarlo en una terminal.
 
-  ![interfaz][interfaz]
+    ![interfaz][interfaz]
 
 La interfaz se compone de los siguientes campos:
 1) Nombre del archivo a crear = Escribe el nombre del audio que guardará el mensaje a esconder
@@ -26,7 +26,7 @@ Aquí dejamos archivos de audio que puede usar para probar el código.
 
 <strong>Importante:</strong> El código solo admite archivos de audio <strong>.wav</strong>.
 
-[interfaz]: imagen.png
+[interfaz]: interfaz.jpg
 
 ***
 Versión 1.0
